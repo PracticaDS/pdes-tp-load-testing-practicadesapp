@@ -1,2 +1,11 @@
-# pdes-tp-load-testing-practicadesapp
-pdes-tp-load-testing-practicadesapp created by GitHub Classroom
+### Run
+
+All tests:
+```
+sbt "gatling:test"
+```
+
+Report:
+```
+sbt "gatling:lastReport"
+```

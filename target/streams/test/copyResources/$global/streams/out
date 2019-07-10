@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/gabi/Desktop/pdes-tp-load-testing-practicadesapp/src/test/resources/gatling.conf,/home/gabi/Desktop/pdes-tp-load-testing-practicadesapp/target/scala-2.12/test-classes/gatling.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/gabi/Desktop/pdes-tp-load-testing-practicadesapp/src/test/resources/recorder.conf,/home/gabi/Desktop/pdes-tp-load-testing-practicadesapp/target/scala-2.12/test-classes/recorder.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/gabi/Desktop/pdes-tp-load-testing-practicadesapp/src/test/resources/logback.xml,/home/gabi/Desktop/pdes-tp-load-testing-practicadesapp/target/scala-2.12/test-classes/logback.xml)[0m

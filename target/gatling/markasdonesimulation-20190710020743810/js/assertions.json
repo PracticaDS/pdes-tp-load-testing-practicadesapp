@@ -1,0 +1,10 @@
+{
+  "simulation": "ar.edu.unq.pdes.todolist.MarkAsDoneSimulation",
+  "simulationId": "markasdonesimulation",
+  "start": 1562724463810,
+  "description": "",
+  "scenarios": ["Create user"],
+  "assertions": [
+
+  ]
+}
